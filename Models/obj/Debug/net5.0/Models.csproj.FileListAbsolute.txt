@@ -1,0 +1,12 @@
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\bin\Debug\net5.0\Models.dll
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\obj\Debug\net5.0\Models.dll
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\obj\Debug\net5.0\refint\Models.dll
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\obj\Debug\net5.0\Models.pdb
+C:\Users\kevin\Desktop\PROJETOS\C#\Projeto Exemplo - Api Swagger\ApiDesafioDotNet\Models\obj\Debug\net5.0\ref\Models.dll

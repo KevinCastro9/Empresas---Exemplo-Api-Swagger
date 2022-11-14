@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9p1Y6n0sikUfdnr4iI1dtJHaPD+N+2wRFjwlnYvEJpkYyl74QgGlVV7S+kwh9JXCgiFhqDJZCPlSkfLgzbjKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\Desktop\\PROJETOS\\C#\\Projeto Exemplo - Api Swagger\\ApiDesafioDotNet\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
